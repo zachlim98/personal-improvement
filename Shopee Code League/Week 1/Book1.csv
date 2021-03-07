@@ -1,0 +1,14 @@
+Id,Email,Phone,OrderId
+A,gmail,376, 
+B,gmail, ,ION
+C, ,376,ION
+D,gmail, , 
+E, ,376, 
+F, ,,ION
+A2,yahoo, , 
+A3,yahoo,972, 
+A4, ,972, 
+G2, , ,POP
+G3, , ,POP
+P1, ,788, 
+P2, ,788, 
